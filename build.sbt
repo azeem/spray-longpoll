@@ -19,3 +19,5 @@ libraryDependencies ++= Seq(
 )
 
 seq(Revolver.settings: _*)
+
+seq(Twirl.settings: _*)
